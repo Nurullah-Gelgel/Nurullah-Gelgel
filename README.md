@@ -2,8 +2,7 @@
 <h3>Junior Software Developer</h3>
   
 - 🔭 I’m currently working on JAVA
-- 🌱 I’m currently learning Spring-Boot
-- 📫 How to reach me: ngelgel36@gmail.com
+- 📫 How to reach me: nurullahgelgel@outlook.com
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
