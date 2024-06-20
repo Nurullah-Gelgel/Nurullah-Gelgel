@@ -2,7 +2,7 @@
 <h3>Junior Software Developer</h3>
   
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nurullah-gelgel-198879201/](https://www.linkedin.com/in/nurullah-gelgel-198879201/))
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nurullah-gelgel-198879201/)
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nurullahgelgel@outlook.com)
 
 <h3 align="left">Technologies and Tools:</h3>
